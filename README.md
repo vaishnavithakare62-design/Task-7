@@ -6,11 +6,11 @@
 - SQLite (built into Python)
 - PowerShell / Command Prompt
 # Files
-- sales.csv — Sample dataset
-- sales_summary.py — Python script
-- sales_data.db — SQLite database (generated when running the script)
-- sales_summary.csv — Summary table (product, total_qty, revenue)
-- sales_chart.png — Bar chart (by revenue)
+- sales 7.csv — Sample dataset
+- sales_summary 7.py — Python script
+- sales_data 7.db — SQLite database (generated when running the script)
+- sales_summary 7.csv — Summary table (product, total_qty, revenue)
+- sales_chart 7.png — Bar chart (by revenue)
   
 # Step-by-Step Instructions
 
@@ -30,10 +30,10 @@
 
 6) Check the results
 
-- sales_data.db — SQLite database
+- sales_data 7.db — SQLite database
 
-- sales_summary.csv — Summary table
+- sales_summary 7.csv — Summary table
 
-- sales_chart.png — Bar chart
+- sales_chart7 .png — Bar chart
 
 7) Deactivate the environment deactivate
